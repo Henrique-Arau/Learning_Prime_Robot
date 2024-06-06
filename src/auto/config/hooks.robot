@@ -7,7 +7,7 @@ Resource     package.robot
 
 ##    Test Setup    ##
 Abrir navegador
-    Open Browser    about:blank    chrome
+    Open Browser     about:blank     chrome
     Maximize Browser window
 
 ##    Test Teardown    ##
