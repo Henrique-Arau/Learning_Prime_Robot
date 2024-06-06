@@ -1,6 +1,7 @@
 *** Settings ***
 Documentation    Aqui estão as keywords relevantes para a automação da homepage dp site 
 
+Resource    ../../config/package.robot
 
 *** Keywords ***
 

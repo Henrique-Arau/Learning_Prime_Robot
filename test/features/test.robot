@@ -1,6 +1,6 @@
 *** Settings ***
 
-Resource    ../..src/config/package.robot
+Resource    ../../src/config/package.robot
 
 Test Setup       Abrir navegador
 Test Teardown    Fechar navegador
