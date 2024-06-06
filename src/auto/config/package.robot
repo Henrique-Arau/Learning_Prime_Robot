@@ -6,11 +6,11 @@ Library    SeleniumLibrary
 
 ##    Keywords    ##
 
-Resource    ../auto/keywords/kws_home.robot
+Resource    ../../auto/keywords/kws_home.robot
 
 ##    Pages    ##
 
-Resource    ../auto/pages/home_page.robot
+Resource    ../../auto/pages/home_page.robot
 
 ##    hooks    ##
 
